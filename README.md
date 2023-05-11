@@ -30,4 +30,8 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Chaitanya674/Turtl_Hackathon
+   git clone https://github.com/Chaitanya674/Turtle_Project
+2. Change your working directory to the project 
+
+   ```bash
+    cd Turtle_Project
