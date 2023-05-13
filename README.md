@@ -36,11 +36,14 @@ To run this project locally, follow these steps:
 
    ```bash
     cd Turtle_Project
-    
+
 This will install the required packages for both the client (front-end) and server (back-end) components of the project.
 
 Configuration
 Before running the project, make sure to configure your environment variables. The project may require settings such as:
+
+we need to start backend ;
+as nodemon start 
 
 MongoDB connection string
 JWT secret key
