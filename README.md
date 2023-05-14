@@ -53,3 +53,6 @@ You can set these environment variables in a .env file in the project root direc
 
 Running the Project
 Once you have installed the dependencies and configured the environment variables, you can start the project:
+
+made By Chaitanya Sharma 
+Thank You for your visit
