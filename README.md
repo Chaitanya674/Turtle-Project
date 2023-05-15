@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The Clean and Green Event Finder is a web-based platform dedicated to promoting environmental awareness and participation in local clean and green initiatives. It provides a central hub for users to discover and participate in eco-friendly events happening in their cities. By bringing together environmentally conscious individuals and organizations, this platform encourages community engagement and makes it easier for everyone to contribute to a greener future.
+The Clean and Green Event Finder visit https://turtlein.netlify.app is a web-based platform dedicated to promoting environmental awareness and participation in local clean and green initiatives. It provides a central hub for users to discover and participate in eco-friendly events happening in their cities. By bringing together environmentally conscious individuals and organizations, this platform encourages community engagement and makes it easier for everyone to contribute to a greener future.
 
 ## Features
 
