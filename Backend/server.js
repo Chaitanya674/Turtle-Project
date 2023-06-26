@@ -1,6 +1,7 @@
 require('dotenv').config()
 
 const express = require('express')
+var cors = require('cors')
 const mongoose = require('mongoose')
 const eventRoutes = require('./routes/events')
 const feeds = require('./feed.json');
@@ -8,7 +9,11 @@ const store = require('./store.json');
 
 // express app 
 const app = express()
-
+app.use(cors({
+    origin: "https://turtlein.netlify.app",
+    methods: ["GET", "POST"]
+}   
+));
 //middleware
 app.use(express.json())
 
